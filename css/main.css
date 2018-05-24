@@ -22,19 +22,19 @@ html {
   float: left;
   width: 100px;
   margin-right: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
 
 .grains h2 {
   float: left;
-  width: 50%;
+  width: 62%;
   margin: 0;
   font-size: 1rem;
 }
 
 .grains p {
   float: left;
-  width: 50%;
+  width: 62%;
   margin: 0;
   font-style: italic;
 }
